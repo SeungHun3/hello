@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "집이당";
+	cout << "작업또";
 	return 0;
 }
